@@ -1,0 +1,13 @@
+package com.pushela.potterystore;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PotteryStoreApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
